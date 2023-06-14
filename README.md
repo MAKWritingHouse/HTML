@@ -1,7 +1,9 @@
 # HTML
+
 Welcome to the HTML Repository! This repository contains a collection of code snippets and examples organized into a roadmap format to help you learn and navigate through HTML development concepts and topics.
 
 ## Repository Structure
+
 The repository is structured into different directories based on the Post Title. Each directory represents a specific topic or concept in HTML. Here's an overview of the repository structure:
 
 ```
@@ -13,8 +15,11 @@ The repository is structured into different directories based on the Post Title.
 |   ├── images/
 |       ├──  Mastering Image Tag - Enhancing Web Pages with Visual Content/images/Mastering Image Tag - Enhancing Web Pages with Visual Content.jpg
 |   ├── index.html
+├── Mastering Lists in HTML
+|   ├── index.html
 └── README.md
 ```
+
 ## Getting Started
 
 To get started with this repository, simply clone or download the repository to your local machine. You can use the following command to clone the repository:
