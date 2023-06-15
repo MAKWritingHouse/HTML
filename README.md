@@ -11,6 +11,8 @@ The repository is structured into different directories based on the Post Title.
 |   ├── index.html
 ├── HTML Tags Bold, Italic, Underline, and Strikethrough/
 |   ├── index.html
+├── Mastering HTML Tables
+|   ├── index.html
 ├── Mastering Image Tag - Enhancing Web Pages with Visual Content/
 |   ├── images/
 |       ├──  Mastering Image Tag - Enhancing Web Pages with Visual Content/images/Mastering Image Tag - Enhancing Web Pages with Visual Content.jpg
