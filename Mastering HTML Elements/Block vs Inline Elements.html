@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Block vs. Inline Elements</title>
+  </head>
+  <body>
+    <!-- ====================
+        Section 1: block-level & inline element example
+    ===================== -->
+    <h1>h1 is a block-level heading</h1>
+    <p>p is a block-level paragraph.</p>
+    <span>span is an inline element.</span>
+    <!-- ====================
+        Section 1: block-level inside another block-level element example
+    ===================== -->
+    <p>p is a block-level paragraph.
+      <!-- You can use block-level inside another block-level or inline element. it will not break the layout ( not recommended and agent the good practice ) -->
+      <h1>h1 is a block-level element</h1>
+      we put one block-level element into another and layout break
+    </p>
+    <!-- ====================
+        Section 1: inline inside block-level element example
+    ===================== -->
+    <p>p is a block-level element.
+      <!-- You can use inline inside another inline or block-level element. it will not break the layout -->
+      <span>span is an inline element.</span>
+      we put one inline element into block-level element and layout doesn't break
+    </p>
+
+  </body>
+</html>
