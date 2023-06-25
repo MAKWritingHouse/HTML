@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Checkboxes and Radio Buttons</title>
+  </head>
+  <body>
+    <form action="submit-form.php" method="post">
+      <label for="hobbies">Hobbies:</label>
+      <input
+        type="checkbox"
+        id="hobbies"
+        name="hobbies[]"
+        value="reading"
+      />Reading
+      <input
+        type="checkbox"
+        id="hobbies"
+        name="hobbies[]"
+        value="cooking"
+      />Cooking
+      <input
+        type="checkbox"
+        id="hobbies"
+        name="hobbies[]"
+        value="sports"
+      />Sports
+      <br />
+      <label for="gender">Gender:</label>
+      <input type="radio" id="gender" name="gender" value="male" />Male
+      <input type="radio" id="gender" name="gender" value="female" />Female
+
+      <!-- Additional checkbox and radio button groups go here -->
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
