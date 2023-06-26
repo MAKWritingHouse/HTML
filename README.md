@@ -17,7 +17,7 @@ The repository is structured into different directories based on the Post Title.
 |   ├── Block vs Inline Elements.html
 |   ├── Utilizing Class and Id.html
 |   ├── Working with Attributes.html
-├── Mastering HTML Tables
+├── Mastering HTML Forms
 |   ├── Checkboxes and Radio Buttons.html
 |   ├── Dropdown In HTML.html
 |   ├── File Upload and Textarea.html
