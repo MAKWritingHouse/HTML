@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>File Upload and Textarea</title>
+  </head>
+  <body>
+    <form action="submit-form.php" method="post" enctype="multipart/form-data">
+      <label for="avatar">Choose a profile picture:</label>
+      <input type="file" id="avatar" name="avatar" />
+
+      <label for="message">Message:</label>
+      <!-- 
+        textarea: is use for multiline input, (eg: comment box) work same as input tag, take two extra attribute: 
+        rows = number of rows show default ( height )
+        cols = number of column show default ( width )
+      -->
+      <textarea id="message" name="message" rows="4" cols="50"></textarea>
+
+      <!-- Additional file upload and textarea fields go here -->
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
