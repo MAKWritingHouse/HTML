@@ -11,20 +11,29 @@ The repository is structured into different directories based on the Post Title.
 |   ├── index.html
 ├── HTML Tags Bold, Italic, Underline, and Strikethrough/
 |   ├── index.html
-├── Mastering HTML Tables
-|   ├── index.html
 ├── Mastering HTML Comments
 |   ├── index.html
 ├── Mastering HTML Elements
 |   ├── Block vs Inline Elements.html
 |   ├── Utilizing Class and Id.html
 |   ├── Working with Attributes.html
+├── Mastering HTML Tables
+|   ├── Checkboxes and Radio Buttons.html
+|   ├── Dropdown In HTML.html
+|   ├── File Upload and Textarea.html
+|   ├── Form Validation and Submission.html
+|   ├── Grouping in Dropdown.html
+|   ├── HTML Forms and Form Tags.html
+|   ├── Text Input and Password Input.html
+├── Mastering HTML Tables
+|   ├── index.html
 ├── Mastering Image Tag - Enhancing Web Pages with Visual Content/
 |   ├── images/
 |       ├──  Mastering Image Tag - Enhancing Web Pages with Visual Content/images/Mastering Image Tag - Enhancing Web Pages with Visual Content.jpg
 |   ├── index.html
 ├── Mastering Lists in HTML
 |   ├── index.html
+├── LICENSE
 └── README.md
 ```
 
