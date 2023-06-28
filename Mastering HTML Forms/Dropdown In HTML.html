@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>File Upload and Textarea</title>
+  </head>
+  <body>
+    <!-- 
+      form: The enctype attribute in the HTML form element is used to specify how the form data should be encoded and transmitted to the server when the form is submitted.
+        enctype: In this case, the enctype attribute is set to "multipart/form-data". This encoding type is commonly used when the form includes file inputs or when you need to send binary data along with the form fields.
+    -->
+    <form action="submit-form.php" method="post" enctype="multipart/form-data">
+      <!-- 
+        dropdown: create using two html tags, select & option
+          select: wrap around the option tags, give the outer ui of a dropdown
+          option: contain dropdown value, ( here we define what should show in dropdown )
+      -->
+      <select>
+        <option value="option1">Option 1</option>
+        <option value="option2">Option 2</option>
+        <option value="option3">Option 3</option>
+      </select>
+    </form>
+  </body>
+</html>

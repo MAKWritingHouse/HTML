@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- 
+      Important: javascript = js
+    -->
+    <title>Form Validation and Submission</title>
+    <!-- script: use to write js inside html file -->
+    <script>
+      // make a basic js function
+      function validateForm() {
+        // Perform form validation using JavaScript
+        // Return false to prevent form submission if validation fails
+      }
+    </script>
+  </head>
+  <body>
+    <!-- 
+      form: onsubmit attribute use to call a funcation on form submit to handle form data ( we will discuss this in javaScript class )
+    -->
+    <form
+      action="submit-form.php"
+      method="post"
+      onsubmit="return validateForm()"
+    >
+      <!-- Form fields go here -->
+
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
