@@ -33,6 +33,11 @@ The repository is structured into different directories based on the Post Title.
 |   ├── index.html
 ├── Mastering Lists in HTML
 |   ├── index.html
+├── The Power of Semantic HTML
+|   ├── Accessibility and Its Impact on Web Development.html
+|   ├── Enhanced Usability and User Experience.html
+|   ├── Improved Compatibility with Assistive Technologies.html
+|   ├── SEO Basics and the Role of Semantic HTML.html
 ├── LICENSE
 └── README.md
 ```
