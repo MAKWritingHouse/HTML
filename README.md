@@ -9,8 +9,11 @@ The repository is structured into different directories based on the Post Title.
 ```
 ├── Creating Your First HTML Page/
 |   ├── index.html
-├── HTML Tags Bold, Italic, Underline, and Strikethrough/
+├── HTML Tags Bold, Italic, Underline, and Strikethrough
 |   ├── index.html
+├── Line Breaks and Horizontal Rules
+|   ├── Understanding Horizontal Rules and their Purpose.html
+|   ├── Understanding Line Breaks and their Usage.html
 ├── Mastering HTML Comments
 |   ├── index.html
 ├── Mastering HTML Elements
