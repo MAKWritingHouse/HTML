@@ -14,6 +14,9 @@ The repository is structured into different directories based on the Post Title.
 ├── Line Breaks and Horizontal Rules
 |   ├── Understanding Horizontal Rules and their Purpose.html
 |   ├── Understanding Line Breaks and their Usage.html
+├── Mastering Definition Lists and Blockquotes in
+|   ├── Understanding Blockquotes and their Purpose.html
+|   ├── Understanding Definition Lists and their Usage.html
 ├── Mastering HTML Comments
 |   ├── index.html
 ├── Mastering HTML Elements
